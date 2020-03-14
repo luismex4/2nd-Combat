@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kn_hand
+  rotate: true
+  xy: 1626, 67
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+kn_head
+  rotate: true
+  xy: 1102, 3
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+kn_l_arm
+  rotate: false
+  xy: 1378, 35
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kn_r_arm
+  rotate: false
+  xy: 1378, 35
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kn_l_foot
+  rotate: true
+  xy: 746, 51
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+kn_l_shoulder
+  rotate: false
+  xy: 1460, 50
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+kn_l_thigh
+  rotate: true
+  xy: 1724, 66
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+kn_r_thigh
+  rotate: true
+  xy: 1724, 66
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+kn_r_foot
+  rotate: true
+  xy: 924, 51
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+kn_r_hand
+  rotate: true
+  xy: 372, 19
+  size: 96, 209
+  orig: 96, 209
+  offset: 0, 0
+  index: -1
+kn_r_shoulder
+  rotate: false
+  xy: 1543, 50
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+kn_skirt
+  rotate: false
+  xy: 1248, 2
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+kn_sword
+  rotate: false
+  xy: 2, 3
+  size: 368, 112
+  orig: 368, 112
+  offset: 0, 0
+  index: -1
+kn_torso
+  rotate: true
+  xy: 583, 34
+  size: 81, 161
+  orig: 81, 161
+  offset: 0, 0
+  index: -1

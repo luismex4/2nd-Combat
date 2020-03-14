@@ -1,0 +1,144 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: true
+  xy: 924, 89
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+l arm
+  rotate: false
+  xy: 398, 64
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+r arm
+  rotate: false
+  xy: 398, 64
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+l foot
+  rotate: true
+  xy: 2, 2
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+l hand
+  rotate: false
+  xy: 455, 64
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+l thig
+  rotate: false
+  xy: 169, 49
+  size: 140, 75
+  orig: 140, 75
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 857, 94
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: true
+  xy: 626, 89
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+r foot
+  rotate: true
+  xy: 79, 2
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+r hand
+  rotate: false
+  xy: 512, 64
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+r thigh
+  rotate: true
+  xy: 703, 89
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 569, 64
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 780, 89
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 39
+  size: 165, 85
+  orig: 165, 85
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 311, 49
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atlas/skeleton
+  rotate: false
+  xy: 2, 2
+  size: 215, 166
+  orig: 215, 166
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atlas/binary/skeleton
+  rotate: false
+  xy: 2, 2
+  size: 226, 168
+  orig: 226, 168
+  offset: 0, 0
+  index: -1
+Atlas/binary/skeleton2
+  rotate: false
+  xy: 230, 4
+  size: 215, 166
+  orig: 215, 166
+  offset: 0, 0
+  index: -1

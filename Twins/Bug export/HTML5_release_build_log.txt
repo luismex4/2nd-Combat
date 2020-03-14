@@ -1,0 +1,116 @@
+"cmd"  /c subst Z: "C:\Users\Lui\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE"
+
+elapsed time 00:00:00.0523956s for command "cmd" /c subst Z: "C:\Users\Lui\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE" started at 11/29/2019 13:55:37
+"cmd"  /c subst Y: "C:\Users\Lui\AppData\Local\GameMakerStudio2\GMS2TEMP"
+
+elapsed time 00:00:00.0516887s for command "cmd" /c subst Y: "C:\Users\Lui\AppData\Local\GameMakerStudio2\GMS2TEMP" started at 11/29/2019 13:55:37
+"cmd"  /c subst X: "C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2.2.4.372"
+
+elapsed time 00:00:00.0555383s for command "cmd" /c subst X: "C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2.2.4.372" started at 11/29/2019 13:55:37
+Saving project to: D:\TwinStickShooter(GameMaker)\Twins\Twins.yyp
+"C:\ProgramData/GameMakerStudio2/Cache/runtimes\runtime-2.2.4.372/bin/Igor.exe"  -j=8 -options="C:\Users\Lui\AppData\Local\GameMakerStudio2\GMS2TEMP\build.bff" -v -- HTML5 Run
+
+Loaded Macros from C:\Users\Lui\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Twins_A06D285D\macros.json
+Options: X:/bin\platform_setting_defaults.json
+Options: C:\Users\Lui\AppData\Roaming/GameMakerStudio2\luismex4_2202375\local_settings.json
+Options: C:\Users\Lui\AppData\Roaming\GameMakerStudio2\Cache\GMS2CACHE\Twins_A06D285D\targetoptions.json
+X://bin/GMAssetCompiler.exe  /c /zpex /iv=0 /rv=0 /bv=0 /j=8  /gn="Twins" /td="Y:/" /cd="Z:/Twins_A06D285D" /zpuf="C:\Users\Lui\AppData\Roaming/GameMakerStudio2\luismex4_2202375" /wt /m=html5 /tgt=32 /nodnd /cfg="default" /nocache_html5  /o="Y:/Twins_6CF7C69F_Javascript" /HTMLRunner="X://html5/scripts.html5.zip" /sh=True /optionsini="Y:/Twins_6CF7C69F_Javascript\options.ini" /obob=True  /obes=False  /obpp=False  /obru=True  /v /cvm  /obfuscate /baseproject="X:/BaseProject\BaseProject.yyp" "D:\TwinStickShooter(GameMaker)\Twins\Twins.yyp" /preprocess="Z:/Twins_A06D285D"
+Reading project file....D:\TwinStickShooter(GameMaker)\Twins
+Reading project file....X:\BaseProject
+Reading config delta 'D:\TwinStickShooter(GameMaker)\Twins\options\main\inherited\options_main.inherited.yy'
+finished.
+
+
+X://bin/GMAssetCompiler.exe DONE (0)
+Release build
+Options: Z:/Twins_A06D285D\ExtensionOptions.json
+OptionsIni
+Options: Z:/Twins_A06D285D\PlatformOptions.json
+X://bin/GMAssetCompiler.exe  /c /zpex /iv=0 /rv=0 /bv=0 /j=8  /gn="Twins" /td="Y:/" /cd="Z:/Twins_A06D285D" /zpuf="C:\Users\Lui\AppData\Roaming/GameMakerStudio2\luismex4_2202375" /wt /m=html5 /tgt=32 /nodnd /cfg="default" /nocache_html5  /o="Y:/Twins_6CF7C69F_Javascript" /HTMLRunner="X://html5/scripts.html5.zip" /sh=True /optionsini="Y:/Twins_6CF7C69F_Javascript\options.ini" /obob=True  /obes=False  /obpp=False  /obru=True  /v /cvm  /obfuscate /baseproject="X:/BaseProject\BaseProject.yyp" "D:\TwinStickShooter(GameMaker)\Twins\Twins.yyp" /bt=run /rt=javascript
+Reading project file....D:\TwinStickShooter(GameMaker)\Twins
+Reading project file....X:\BaseProject
+Reading config delta 'D:\TwinStickShooter(GameMaker)\Twins\options\main\inherited\options_main.inherited.yy'
+finished.
+Saving HTML5 file... Y:/Twins_6CF7C69F_Javascript\html5game\Twins.js
+Looking for built-in particle images in X:\bin\ParticleImages
+Looking for built-in font images in X:\bin\BuiltinFonts
+Texture Group - Default
+Writing texture skeleton.png... 
+Writing texture skeleton.png... 
+Writing Skeleton data to Twins.skel... 
+0 Compressing texture... writing texture Twins_texture_0.png... 
+Compiling - gml_Script_player_hit
+Compiling - gml_Script_player_apply_x_movement
+Compiling - gml_Script_player_apply_y_movement
+Compiling - gml_Script_damage_player
+Compiling - gml_Script_sleep_hack
+Compiling - gml_Script_player_apply_animation
+Compiling - gml_Object_obj_player_Create_0
+Compiling - gml_Object_obj_player_Step_0
+Compiling - gml_Object_obj_player_Other_7
+Compiling - gml_Object_obj_player_Draw_0
+Compiling - gml_Object_obj_player_PreCreate_0
+Compiling - gml_Object_obj_knight_Create_0
+Compiling - gml_Object_obj_knight_Step_0
+Compiling - gml_Object_obj_knight_Other_7
+Compiling - gml_Object_obj_knight_Draw_0
+Compiling - gml_Object_obj_knight_PreCreate_0
+Compiling - gml_Object_obj_game_manager_Create_0
+Compiling - gml_Object_obj_game_manager_Step_0
+Compiling - gml_Object_obj_game_manager_PreCreate_0
+Obfuscating...
+Done! 
+Stats : GMA : Elapsed=5922.2918
+Stats : GMA : sp=4,au=0,bk=2,pt=0,sc=6,sh=0,fo=1,tl=0,ob=3,ro=1,da=0,ex=0,ma=3,fm=0x200668340020
+
+
+X://bin/GMAssetCompiler.exe DONE (0)
+[Deploy] Copy Assets/Included files to target dir
+PlatformOptions
+DoIndexFile
+DoSplash
+DoIcon
+Igor complete.
+X://bin/GMWebServer.exe  -root "Y:/Twins_6CF7C69F_Javascript" -port 51264 -cidr 10.0.0.0/24
+GMWebServer Starting........
+Igor complete
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+127.0.0.1 : 0% : 2.86 KB : /index.html
+127.0.0.1 : 0% : 1.20 MB : /html5game/Twins.js
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+127.0.0.1 : 0% : 64.89 KB : /html5game/Twins.skel
+127.0.0.1 : 0% : 95.25 KB : /html5game/Twins_texture_0.png
+127.0.0.1 : 0% : 266 bytes : /html5game/particles/IDR_GIF2.png
+127.0.0.1 : 0% : 930 bytes : /html5game/particles/IDR_GIF3.png
+127.0.0.1 : 0% : 301 bytes : /html5game/particles/IDR_GIF5.png
+127.0.0.1 : 0% : 301 bytes : /html5game/particles/IDR_GIF4.png
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+127.0.0.1 : 0% : 1.06 KB : /html5game/particles/IDR_GIF6.png
+127.0.0.1 : 0% : 1.26 KB : /html5game/particles/IDR_GIF7.png
+127.0.0.1 : 0% : 2.10 KB : /html5game/particles/IDR_GIF8.png
+127.0.0.1 : 0% : 1.59 KB : /html5game/particles/IDR_GIF9.png
+127.0.0.1 : 0% : 3.39 KB : /html5game/particles/IDR_GIF11.png
+127.0.0.1 : 0% : 2.70 KB : /html5game/particles/IDR_GIF10.png
+127.0.0.1 : 0% : 3.44 KB : /html5game/particles/IDR_GIF12.png
+127.0.0.1 : 0% : 2.41 KB : /html5game/particles/IDR_GIF13.png
+127.0.0.1 : 0% : 3.58 KB : /html5game/particles/IDR_GIF14.png
+127.0.0.1 : 0% : 3.41 KB : /html5game/particles/IDR_GIF15.png
+Connecting to Client 127.0.0.1
+Connecting to Client 127.0.0.1
+127.0.0.1 : 0% : 14.06 KB : /html5game/spr_knight/skeleton.png
+127.0.0.1 : 0% : 3.97 KB : /html5game/spr_player/skeleton.png
